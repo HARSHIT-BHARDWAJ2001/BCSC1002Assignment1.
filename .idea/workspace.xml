@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb28a3eb-1365-4673-8c77-71373863bdeb" name="Default Changelist" comment="Create a private field">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BCSC1002Assignment1/definitions/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BCSC1002Assignment1/definitions/Library.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BCSC1002Assignment1/definitions/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BCSC1002Assignment1/execution/FrontDesk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/definitions/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/definitions/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/definitions/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/definitions/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/execution/FrontDesk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/execution/FrontDesk.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="4f9376d7-6412-4bc3-a789-44115e780e94" />
+  </component>
+  <component name="ProjectId" id="1ggHMtxV2traoVt3zsoCaCD9pQN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FrontDesk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="execution.FrontDesk" />
+      <module name="BCSC1002Assignment1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="execution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FrontDesk" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb28a3eb-1365-4673-8c77-71373863bdeb" name="Default Changelist" comment="" />
+      <created>1598529270269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598529270269</updated>
+      <workItem from="1598529275419" duration="1143000" />
+      <workItem from="1598713918930" duration="1219000" />
+      <workItem from="1598771442322" duration="19363000" />
+      <workItem from="1598803427102" duration="5051000" />
+      <workItem from="1598808549069" duration="1144000" />
+    </task>
+    <task id="LOCAL-00001" summary="Create Book.java">
+      <created>1598774262944</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598774262944</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Create a private field for the Book class">
+      <created>1598774597755</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598774597755</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create a parameterized constructor for the Book class">
+      <created>1598775428701</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598775428701</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create a getter method for the private field of nameOfTheBook of the Book class">
+      <created>1598775661494</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598775661494</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Create a setter method for the private field of nameOfTheBook of the Book class">
+      <created>1598775696065</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598775696065</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Create a getter method for the private field of nameOfTheAuthorOfTheBook of the Book class">
+      <created>1598775768295</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598775768295</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Create a setter method for the private field of nameOfTheAuthorOfTheBook of the Book class">
+      <created>1598775794734</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598775794734</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Create a getter method for the private field of ISBNNumberOfTheBook of the Book class">
+      <created>1598775847294</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1598775847294</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Create a setter method for the private field of ISBNNumberOfTheBook of the Book class">
+      <created>1598775871361</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1598775871361</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Create a toString() method for the private field of the Book class">
+      <created>1598776103088</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1598776103088</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Create a equals() and hashcode() method of the Book class">
+      <created>1598776215724</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1598776215724</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Create Library.java">
+      <created>1598776279138</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1598776279138</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Create a public field for the Library class">
+      <created>1598776765971</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1598776765971</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Create a parameterized constructor for the Library class">
+      <created>1598776818804</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1598776818804</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add a method by using for loop">
+      <created>1598777437742</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1598777437742</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Create a getter method for the public field of allTheBooksThatAreCurrentlyAvailable in the Library class">
+      <created>1598777603453</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1598777603453</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Create a setter method for the public field of allTheBooksThatAreCurrentlyAvailable in the Library class">
+      <created>1598777804516</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1598777804516</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Create a toString() method in the Library class">
+      <created>1598777942359</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1598777942359</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Create a equals() and hashcode() method in the Library class">
+      <created>1598778017437</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1598778017437</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Add a listInventory() method in the Library class">
+      <created>1598778260790</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1598778260790</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Create Student.java">
+      <created>1598778319602</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1598778319602</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Create a private fields in the Student Class">
+      <created>1598778504657</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1598778504657</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Import a Scanner method">
+      <created>1598779075924</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1598779075924</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Add a new Scanner Object in the Student class">
+      <created>1598779221054</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1598779221054</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Create a parameterized constructor for the Student class">
+      <created>1598779424049</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1598779424049</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Add a getter() and setter() of the nameOfBook in the Student Class">
+      <created>1598779813851</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1598779813851</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Create a getter() and setter() method for the private field in the Student class">
+      <created>1598780644223</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1598780644223</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Add a doIssue() method by using If statement">
+      <created>1598781168828</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1598781168828</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Add a doReturn() method by using If-else statement">
+      <created>1598781250864</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1598781250864</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Add a showIssuesBook() method by using for and if statement">
+      <created>1598781364381</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1598781364381</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Create a toString() method for the private field in the Student class">
+      <created>1598781545620</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1598781545620</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Create a equals() and hashcode() method for the private fields in the Student class">
+      <created>1598781814487</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1598781814487</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Create FrontDesk.java">
+      <created>1598781941900</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1598781941900</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Add a main method to the execution">
+      <created>1598782033529</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1598782033529</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Add a Scanner object in the main method">
+      <created>1598782234465</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1598782234465</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Add a Library object in the main method">
+      <created>1598782374946</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1598782374946</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Add a Student object in the main method">
+      <created>1598782453383</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1598782453383</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Create a private static field in the FrontDesk">
+      <created>1598783321842</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1598783321842</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Add a do-while loop by using switch case loop">
+      <created>1598784741793</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1598784741793</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create a setter method for the public field of allTheBooksThatAreCurrentlyAvailable in the Library class" />
+    <MESSAGE value="Create a toString() method in the Library class" />
+    <MESSAGE value="Create a equals() and hashcode() method in the Library class" />
+    <MESSAGE value="Add a listInventory() method in the Library class" />
+    <MESSAGE value="Create Student.java" />
+    <MESSAGE value="Create a private fields in the Student Class" />
+    <MESSAGE value="Import Scanner method" />
+    <MESSAGE value="import a Scanner method" />
+    <MESSAGE value="Import a Scanner method" />
+    <MESSAGE value="Add a new Scanner Object in the Student class" />
+    <MESSAGE value="Create a parameterized constructor for the Student class" />
+    <MESSAGE value="Add a getter() and setter() of the nameOfBook in the Student Class" />
+    <MESSAGE value="Create a getter() and setter() method for the private field in the Student class" />
+    <MESSAGE value="Add a doIssue() method by using If statement" />
+    <MESSAGE value="Add a doReturn() method by using If-else statement" />
+    <MESSAGE value="Add a showIssuesBook() method by using for and if statement" />
+    <MESSAGE value="Create a toString() method for the private field in the Student class" />
+    <MESSAGE value="Create a equals() and hashcode() method for the private fields in the Student class" />
+    <MESSAGE value="Create FrontDesk.java" />
+    <MESSAGE value="Add a main method to the execution" />
+    <MESSAGE value="Add a Scanner object in the main method" />
+    <MESSAGE value="Add a Library object in the main method" />
+    <MESSAGE value="Add a Student object in the main method" />
+    <MESSAGE value="Create a private static field in the FrontDesk" />
+    <MESSAGE value="Add a do-while loop by using switch case loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add a do-while loop by using switch case loop" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1598781417008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1598781417008" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598807391025">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1598807391025" />
+    <state x="264" y="2" width="849" height="822" key="CommitChangelistDialog2" timestamp="1598804703685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="264" y="2" width="849" height="822" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1598804703685" />
+    <state x="68" y="66" key="DiffContextDialog" timestamp="1598808347829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="68" y="66" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1598808347829" />
+    <state x="499" y="333" width="542" height="157" key="GitCloneDialog" timestamp="1598805607767">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="333" width="542" height="157" key="GitCloneDialog/0.0.1536.824@0.0.1536.824" timestamp="1598805607767" />
+    <state x="558" y="296" key="Github.CreateGistDialog" timestamp="1598805764618">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="558" y="296" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1598805764618" />
+    <state x="629" y="344" key="Github.Dialog.Accounts.Choose" timestamp="1598803991040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="629" y="344" key="Github.Dialog.Accounts.Choose/0.0.1536.824@0.0.1536.824" timestamp="1598803991040" />
+    <state x="543" y="292" key="Github.ShareDialog" timestamp="1598807155588">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="543" y="292" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1598807155588" />
+    <state width="1492" height="232" key="GridCell.Tab.0.bottom" timestamp="1598808481460">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="232" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598808481460" />
+    <state width="1492" height="232" key="GridCell.Tab.0.center" timestamp="1598808481460">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="232" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598808481460" />
+    <state width="1492" height="232" key="GridCell.Tab.0.left" timestamp="1598808481459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="232" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598808481459" />
+    <state width="1492" height="232" key="GridCell.Tab.0.right" timestamp="1598808481460">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="232" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598808481460" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1598808680788">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598808680788" />
+    <state x="360" y="33" key="new project wizard" timestamp="1598529808868">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1598529808868" />
+    <state x="611" y="170" key="refactoring.ChangeSignatureDialog" timestamp="1598797718578">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="611" y="170" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1598797718578" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/definitions/Library.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
