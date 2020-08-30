@@ -1,5 +1,6 @@
 /*  Created by IntelliJ IDEA.
- *  User: Divyansh Bhardwaj (dbc2201)
+ *  User: Harshit Bhardwaj (hbh2001)
+ *
  *  Date: 21/08/20
  *  Time: 3:50 PM
  *  File Name : Library.java
@@ -18,7 +19,7 @@ public class Library {
     public Library() {
         this.allTheBooksThatAreCurrentlyAvailable = new Book[10];
         for (int i = 0; i < allTheBooksThatAreCurrentlyAvailable.length; i++) {
-            allTheBooksThatAreCurrentlyAvailable[i] = new Book("Book" + (i + 1), null, 9789258047587l + (i + 1));
+            allTheBooksThatAreCurrentlyAvailable[i] = new Book("Book" + (i + 1), null, "9535685486957" + (i + 1));
         }
     }
 
