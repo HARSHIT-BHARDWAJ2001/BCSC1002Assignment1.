@@ -6,6 +6,7 @@
  * */
 package definitions;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Student {
@@ -114,5 +115,15 @@ public class Student {
 
     public void setNumberOfBookIssued(int numberOfBookIssued) {
         this.numberOfBookIssued = numberOfBookIssued;
+    }
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "studentName='" + studentName + '\'' +
+                ", universityRollNumber=" + universityRollNumber +
+                ", nameOfBooks=" + Arrays.toString(nameOfBooks) +
+                ", numberOfBookIssued=" + numberOfBookIssued +
+                '}';
     }
 }
