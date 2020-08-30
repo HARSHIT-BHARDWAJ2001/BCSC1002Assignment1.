@@ -16,4 +16,8 @@ public class Book {
         this.nameOfTheAuthorOfTheBook = nameOfTheAuthorOfTheBook;
         this.ISBNNumberOfTheBook = ISBNNumberOfTheBook;
     }
+
+    public String getNameOfTheBook() {
+        return nameOfTheBook;
+    }
 }
